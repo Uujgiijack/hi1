@@ -12,6 +12,7 @@ body div {
 }
 
 .block {
+  margin: 0px 70px 0px 0px;
 
   &__ {
   }
