@@ -47,12 +47,10 @@ body{
     box-shadow: 20px 20px 40px -6px rgba(0,0,0,.2);
     backdrop-filter: blur(0.6px);
 }
-@media screen and (max-width:720px{
+@media screen and (max-width:720px){
     .searchbar:hover{
         width: 70px ;
     }
     
 }
 
-.fa-magnifying-glass {
-}
